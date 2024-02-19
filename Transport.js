@@ -1,0 +1,1 @@
+let person = prompt("Switch To desktop mode"); 
